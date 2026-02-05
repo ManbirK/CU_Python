@@ -1,0 +1,23 @@
+OrderID,Region,Product,Sales,Quantity
+101,North,Laptop,55000,2
+102,South,Mobile,25000,3
+103,East,Tablet,None,
+104,West,   Laptop,60000,1
+105,north,Mobile,24000,2
+112,West,Tablet,20000,2
+106,South,Tablet,19000,2
+107,East,Laptop,58000,1
+108,West,mobile,26000,3
+109,  North,Tablet,17500,2
+110,South,Laptop,None,1
+111,East,Mobile,23000,2
+112,West,Tablet,20000,2
+102,South,Mobile,25000,3
+113,   North,Laptop,55000,2
+114,South,Mobile,25000,3
+115,East,tablet,18000,2
+116,West,Laptop,60000,1
+117,   north,Mobile,24000,None
+118,South,Tablet,19000,2
+119,East,Laptop,58000,1
+120,West,Mobile,26000,
